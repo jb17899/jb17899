@@ -8,8 +8,8 @@ Welcome to my GitHub! I'm a passionate software developer with a strong focus on
 
 ### 🚀 Core Languages
 - **C++** (Modern C++17/20, STL, OOP, Multi-threading, Performance Optimization)
-- **JavaScript / TypeScript** (Frontend + Backend)
-
+- **JavaScript** (Frontend + Backend)
+- **Python** (ML)
 ### 🧱 Build & Dev Tools
 - **CMake** – Modular project setup, cross-platform builds
 - **Git** – Version control
