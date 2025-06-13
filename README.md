@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a passionate software developer with a strong focus on
 ### 🌐 Full-Stack Development
 - **Frontend**: React, Tailwind CSS, HTML5, CSS3
 - **Backend**: Node.js, Express.js, REST APIs
-- **Database**: MongoDB, PostgreSQL
+- **Database**: MongoDB, PostgreSQL ,Supabase
 
 ### 🧠 System Design
 - Scalable Architecture
