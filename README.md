@@ -44,7 +44,7 @@ Welcome to my GitHub! I'm a passionate software developer with a strong focus on
 ---
 ## 💬 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/bharat-kumar-sharma-b23a102aa) *(add your real URL here)*
+- 💼 [LinkedIn](www.linkedin.com/in/bharat-kumar-sharma-b23a102aa)
 - ✉️ Reach me via GitHub or email!
 
 ---
